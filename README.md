@@ -8,8 +8,8 @@ de venta. Esta problematica genera una mucha congestión, demora en la atención
 
 [Solución alternativa]
 Desarrollar una aplicación móvil donde el cliente podrá realizar las siguientes funcionalidades para realizar sus compras:
-1. Escanear el codigo de barra de sus productos desde la camara de celular
-2. Agragar manualmente el código SKU del producto 
+1. Escanear el código de barra de sus productos desde la camara de celular
+2. Agregar manualmente el código SKU del producto 
 3. Elegir la tienda y/o ubicación de compra
 4. Realizas compras en situ y/o entrega a domicilio
 5. Pagar sus productos con cualquier medio de pago digital (Tarjeta de crédito/débido y/o billetera móvil)
